@@ -1,8 +1,4 @@
-
-
-
-from tkinter import *
-
+from tkinter import 
 
 class Main(Frame):
 
